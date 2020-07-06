@@ -1,0 +1,21 @@
+.Vision
+{
+    background-color: #f2f2f2;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 30px 10px 10px 10px;
+}
+.Mission
+{
+    background-color: #d0f0f5;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 30px 10px 10px 10px;
+}
+
+.Vision h2{
+    padding-bottom: 10px;
+}
+.Mission h2{
+    padding-bottom: 10px;
+}

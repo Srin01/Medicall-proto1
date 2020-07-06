@@ -1,0 +1,18 @@
+.Navbar
+{
+    background-color: #01071a;
+}
+.navlink
+{
+    color: #ffd942;
+}
+.brand
+{
+    color: #ffd942;
+    padding-left: 200px;
+    padding-right: 50px;
+}
+.nav-item
+{
+    padding-left: 50px;
+}
