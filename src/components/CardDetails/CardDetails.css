@@ -1,23 +1,40 @@
-.background
+.Appoitment1
 {
+    margin-top: 0px;
     background-color: #faf7bb;
-    margin-bottom: 0px;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-bottom: 20px;
 }
-
-.CardDetails 
+#heading1{
+    text-align: left;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+  
+.titlesq
 {
-    display: flex;
-    justify-content: space-around;
-    margin: 10px 10%;
-    margin-top: 0px;
+    margin-bottom: .5rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.card1
+{
+    border-style: none;
+    box-shadow: 0 3px 6px 0 gray;
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right:30px;
+    height: 300px;
+    padding-bottom: 30px;
 
 }
-
-.CardHeading
+.CardImage1
 {
-    margin-top: 30px;
-    text-align: left;
-    margin-left: 10%;
-    padding-top: 10px;
+    height: 150px;
+}
+#width1
+{
+    width: 100px;
 }

@@ -3,3 +3,18 @@
     width: 1000px;
     height: 500px;
 }
+.footer-copyright {
+    padding: 20px 0;
+    text-align: center;
+    color: #000000;
+    font-size: 12px;
+    background-color: #f8f8f8;
+    background-color: #28328c;
+    color: #ffffff;
+}
+@media only screen and (max-width: 1026px) {
+    .image {
+        width: 350px;
+        height: 350px;
+    }
+}

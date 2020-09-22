@@ -6,8 +6,11 @@ class Footer extends Component
     render()
     {
         return(
-            <div className="footer">
-                    <img className="image" src ="images/mob.jpeg" />
+            <div>
+                <div className="footer">
+                    <img className="image" src ="images/applink.jpg" />
+                </div>
+                <div class="footer-copyright">Copyright © 2020, MediCall. All rights reserved.</div>
             </div>
         );
     }

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Appoitment.css"
-import {Card, CardDeck, CardImg, CardTitle} from "reactstrap";
+import {Card, CardDeck, CardImg, CardLink, CardTitle} from "reactstrap";
 
 class Appoitment extends Component{
     render()

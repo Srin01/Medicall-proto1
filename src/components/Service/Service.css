@@ -38,4 +38,28 @@
 .service-information a{
     text-align: center;
 }
+
+.background
+{
+    background-color: #faf7bb;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+
+.CardDetails 
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 10%;
+    margin-top: 0px;
+
+}
+
+.CardHeading
+{
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 10%;
+    padding-top: 10px;
+}
   
