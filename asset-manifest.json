@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Medicall-proto1/static/css/main.1a3a4e06.chunk.css",
-    "main.js": "/Medicall-proto1/static/js/main.0a876894.chunk.js",
-    "main.js.map": "/Medicall-proto1/static/js/main.0a876894.chunk.js.map",
-    "runtime-main.js": "/Medicall-proto1/static/js/runtime-main.f6f4ca43.js",
-    "runtime-main.js.map": "/Medicall-proto1/static/js/runtime-main.f6f4ca43.js.map",
-    "static/css/2.9397f8b9.chunk.css": "/Medicall-proto1/static/css/2.9397f8b9.chunk.css",
-    "static/js/2.94670ba4.chunk.js": "/Medicall-proto1/static/js/2.94670ba4.chunk.js",
-    "static/js/2.94670ba4.chunk.js.map": "/Medicall-proto1/static/js/2.94670ba4.chunk.js.map",
-    "index.html": "/Medicall-proto1/index.html",
-    "precache-manifest.6dfdf24f79323e59982072d46b680f9a.js": "/Medicall-proto1/precache-manifest.6dfdf24f79323e59982072d46b680f9a.js",
-    "service-worker.js": "/Medicall-proto1/service-worker.js",
-    "static/css/2.9397f8b9.chunk.css.map": "/Medicall-proto1/static/css/2.9397f8b9.chunk.css.map",
-    "static/css/main.1a3a4e06.chunk.css.map": "/Medicall-proto1/static/css/main.1a3a4e06.chunk.css.map",
-    "static/js/2.94670ba4.chunk.js.LICENSE.txt": "/Medicall-proto1/static/js/2.94670ba4.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/Medicall-proto1/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/Medicall-proto2/static/css/main.a92aaaf9.chunk.css",
+    "main.js": "/Medicall-proto2/static/js/main.2513cc61.chunk.js",
+    "main.js.map": "/Medicall-proto2/static/js/main.2513cc61.chunk.js.map",
+    "runtime-main.js": "/Medicall-proto2/static/js/runtime-main.417d71a9.js",
+    "runtime-main.js.map": "/Medicall-proto2/static/js/runtime-main.417d71a9.js.map",
+    "static/css/2.f37888de.chunk.css": "/Medicall-proto2/static/css/2.f37888de.chunk.css",
+    "static/js/2.74777bd9.chunk.js": "/Medicall-proto2/static/js/2.74777bd9.chunk.js",
+    "static/js/2.74777bd9.chunk.js.map": "/Medicall-proto2/static/js/2.74777bd9.chunk.js.map",
+    "index.html": "/Medicall-proto2/index.html",
+    "precache-manifest.deb5e9e1f13eb3fd5584e02e33e7bbbe.js": "/Medicall-proto2/precache-manifest.deb5e9e1f13eb3fd5584e02e33e7bbbe.js",
+    "service-worker.js": "/Medicall-proto2/service-worker.js",
+    "static/css/2.f37888de.chunk.css.map": "/Medicall-proto2/static/css/2.f37888de.chunk.css.map",
+    "static/css/main.a92aaaf9.chunk.css.map": "/Medicall-proto2/static/css/main.a92aaaf9.chunk.css.map",
+    "static/js/2.74777bd9.chunk.js.LICENSE.txt": "/Medicall-proto2/static/js/2.74777bd9.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/Medicall-proto2/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6f4ca43.js",
-    "static/css/2.9397f8b9.chunk.css",
-    "static/js/2.94670ba4.chunk.js",
-    "static/css/main.1a3a4e06.chunk.css",
-    "static/js/main.0a876894.chunk.js"
+    "static/js/runtime-main.417d71a9.js",
+    "static/css/2.f37888de.chunk.css",
+    "static/js/2.74777bd9.chunk.js",
+    "static/css/main.a92aaaf9.chunk.css",
+    "static/js/main.2513cc61.chunk.js"
   ]
 }
