@@ -35,7 +35,8 @@ const Example = (props) => {
         return(
             <div>
                 <Navbar className="Navbar" expand = "md">
-                    <NavbarBrand className="brand" href="/">Medicall</NavbarBrand>
+                <img src = "/favicon.ico" className ="icomn" />
+                    <NavbarBrand className="brand"  href="/">Medicall</NavbarBrand>
                     <NavbarToggler className="toggler" onClick = {toggle} />
                     <Collapse isOpen = {isOpen} navbar >
                         <Nav className = "mr-auto" navbar>
@@ -55,7 +56,7 @@ const Example = (props) => {
                     </Collapse>
                 </Navbar>
                 <div>
-                <Carousel activeIndex = {activeIndex} next = {next} previous = {previous} >
+                <Carousel activeIndex = {activeIndex} next = {next} previous = {previous} className ="carousel1" >
                     <CarouselIndicators className="indicators" items = {items} activeIndex = {activeIndex} onClickHandler = {goToIndex} />
                     {slides}
                     <CarouselControl direction = "prev" directionText="Previous" onClickHandler = {previous} />
